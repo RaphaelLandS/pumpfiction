@@ -1,3 +1,3 @@
-# gym_site
+# Pump-Fiction
 
-A new Flutter project.
+A gym web application running on flutter.
